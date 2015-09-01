@@ -8,7 +8,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
 使用基于AMD规范的`RequireJS`来完成整体的模块化设计。
 
 具体开发中，需要注意一下几点：<br>
-* 这里推荐使用`Homebrew`作为包管理器，用于在Mac上安装一些OS X没有的UNIX工具，  例如`git`、`nodejs`、`grunt`等；
+* 这里推荐使用`Homebrew`作为包管理器，用于在Mac上安装一些OS X没有的UNIX工具，<br>例如`git`、`nodejs`、`grunt`等；
    * [HomeBrew中文网]
    * [HomeBrew教程]
 * 推荐使用`WebStorm`或者`Sublime`作为开发工具
