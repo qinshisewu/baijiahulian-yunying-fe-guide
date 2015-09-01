@@ -47,7 +47,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
 * Bootstrap
     * [视频教程]
     * [Bootstrap表单用法]
-    * [官网]
+    * [Bootstrap官网]
 * Less
     * [Less快速使用指南]
     * [Less中文文档]
@@ -83,7 +83,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
 [controller as是什么]: http://www.cnblogs.com/whitewolf/p/3493362.html
 [视频教程]: http://www.jikexueyuan.com/course/587.html
 [Bootstrap表单用法]: http://www.runoob.com/bootstrap/bootstrap-forms.html
-[官网]: http://v3.bootcss.com/
+[Bootstrap官网]: http://v3.bootcss.com/
 [Less快速使用指南]: http://www.bootcss.com/p/lesscss/
 [Less中文文档]: http://less.bootcss.com/
 [AMD规范是什么]: http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html
