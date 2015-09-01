@@ -30,7 +30,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
 * AngularJS
     * [AngularJS官网]
     * [AngularJS的API文档]
-    * [AngularJS的UI组件]
+    * [AngularJS的UI组件(很重要，项目中使用的组件基本来自这里)]
     * [终端调试AngularJS应用]
     * AngularJS技术难点
         * [自定义指令中如何使用ngModelController]
@@ -46,7 +46,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
             * [controller as是什么]
 * Bootstrap
     * [视频教程]
-    * [Bootstrap表单用法]
+    * [Bootstrap表单用法(非常推荐)]
     * [Bootstrap官网]
 * Less
     * [Less快速使用指南]
@@ -70,7 +70,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
 [Git教程]: http://git-scm.com/book/zh/v1
 [AngularJS官网]: https://angularjs.org/
 [AngularJS的API文档]: http://docs.angularjs.cn/api
-[AngularJS的UI组件]: http://angular-ui.github.io/
+[AngularJS的UI组件(很重要，项目中使用的组件基本来自这里)]: http://angular-ui.github.io/
 [终端调试AngularJS应用]: http://www.oschina.net/translate/angularjs-console?cmp
 [自定义指令中如何使用ngModelController]: http://www.chroder.com/2014/02/01/using-ngmodelcontroller-with-custom-directives/
 [深入理解AngularJS中的scope]: https://github.com/angular/angular.js/wiki/Understanding-Scopes#javascript-prototypal-inheritance
@@ -82,7 +82,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
 [ui-router系列指南]: https://github.com/angular-ui/ui-router/wiki
 [controller as是什么]: http://www.cnblogs.com/whitewolf/p/3493362.html
 [视频教程]: http://www.jikexueyuan.com/course/587.html
-[Bootstrap表单用法]: http://www.runoob.com/bootstrap/bootstrap-forms.html
+[Bootstrap表单用法(非常推荐)]: http://www.runoob.com/bootstrap/bootstrap-forms.html
 [Bootstrap官网]: http://v3.bootcss.com/
 [Less快速使用指南]: http://www.bootcss.com/p/lesscss/
 [Less中文文档]: http://less.bootcss.com/
