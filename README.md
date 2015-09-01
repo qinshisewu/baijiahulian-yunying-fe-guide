@@ -2,9 +2,9 @@
 
 ## 运营系统前端开发框架
 
-使用`AngularJS`作为主体架构；
-页面设计原则是可以使用`Bootstrap`实现的效果尽量使用它实现，注意设计出的页面应该和整个系统中的风格保持一致；
-css样式编写使用`Less`语言，这样可以避免系统中出现css命名冲突；
+使用`AngularJS`作为主体架构；<br>
+页面设计原则是可以使用`Bootstrap`实现的效果尽量使用它实现，注意设计出的页面应该和整个系统中的风格保持一致；<br>
+css样式编写使用`Less`语言，这样可以避免系统中出现css命名冲突；<br>
 使用基于AMD规范的`RequireJS`来完成整体的模块化设计。
 
 具体开发中，需要注意一下几点：<br>
@@ -19,7 +19,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
 ## 开发规范
 
 * [目录规范]
-* [js规范]
+* [JS规范]
 * [AngularJS规范]
 * [HTML、Less、CSS、JSON等其他规范]
 
@@ -64,7 +64,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
 [HomeBrew中文网]: http://brew.sh/index_zh-cn.html
 [HomeBrew教程]: http://blog.csdn.net/maojudong/article/details/7918291
 [目录规范]: https://github.com/ecomfe/spec/blob/master/directory.md
-[js规范]: https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md
+[JS规范]: https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md
 [AngularJS规范]: http://git.baijiahulian.com/yanlingling/yunyingFrontendStandard/wikis/angular-usage
 [HTML、Less、CSS、JSON等其他规范]: https://github.com/ecomfe/spec
 [Git教程]: http://git-scm.com/book/zh/v1
