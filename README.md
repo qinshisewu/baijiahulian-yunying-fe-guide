@@ -14,4 +14,7 @@
 ######6
     xby
 
+```javascript
+document.getElementById('xby').innerHTML = 'good';
+```
 
