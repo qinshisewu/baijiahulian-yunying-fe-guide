@@ -2,10 +2,10 @@
 
 ## 运营系统前端开发框架
 
-    使用`AngularJS`作为主体架构；
-    页面设计原则是可以使用`BootStrap`实现的效果尽量使用它实现，注意设计出的页面应该和整个系统中的风格保持一致；
-    css样式编写使用`Less`语言，这样可以避免系统中出现css命名冲突；
-    使用基于AMD规范的`RequireJS`来完成整体的模块化设计。
+使用`AngularJS`作为主体架构；
+页面设计原则是可以使用`Bootstrap`实现的效果尽量使用它实现，注意设计出的页面应该和整个系统中的风格保持一致；
+css样式编写使用`Less`语言，这样可以避免系统中出现css命名冲突；
+使用基于AMD规范的`RequireJS`来完成整体的模块化设计。
 
 具体开发中，需要注意一下几点：<br>
 * 这里推荐使用`Homebrew`作为包管理器，用于在Mac上安装一些OS X没有的UNIX工具。例如`git`、`nodejs`、`grunt`等；
@@ -44,9 +44,9 @@
             * [ui-router系列指南]
         * controllerAs
             * [controller as是什么]
-* BootStrap
+* Bootstrap
     * [视频教程]
-    * [BootStrap表单用法]
+    * [Bootstrap表单用法]
     * [官网]
 * Less
     * [Less快速使用指南]
@@ -82,7 +82,7 @@
 [ui-router系列指南]: https://github.com/angular-ui/ui-router/wiki
 [controller as是什么]: http://www.cnblogs.com/whitewolf/p/3493362.html
 [视频教程]: http://www.jikexueyuan.com/course/587.html
-[BootStrap表单用法]: http://www.runoob.com/bootstrap/bootstrap-forms.html
+[Bootstrap表单用法]: http://www.runoob.com/bootstrap/bootstrap-forms.html
 [官网]: http://v3.bootcss.com/
 [Less快速使用指南]: http://www.bootcss.com/p/lesscss/
 [Less中文文档]: http://less.bootcss.com/
