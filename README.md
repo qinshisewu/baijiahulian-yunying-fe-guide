@@ -6,9 +6,8 @@
 css样式编写使用`Less`语言，这样可以避免系统中出现css命名冲突。同时，使用基于AMD规范的`RequireJS`来完成整体的模块化设计。
 具体开发中，需要注意一下几点：<br>
 * 这里推荐使用`Homebrew`作为包管理器，用于在Mac上安装一些OS X没有的UNIX工具。例如`git`、`nodejs`、`grunt`等；
-[HomeBrew中文网]
-
-[HomeBrew教程]<br>
+   * [HomeBrew中文网]
+   * [HomeBrew教程]
 * 推荐使用`WebStorm`或者`Sublime`作为开发工具
 * 版本管理，统一使用`Git`
 * 前端开发中使用`NodeJS`模拟服务器，用`mock`数据代替真实的后台数据，这样可以方便的进行功能性测试
@@ -24,7 +23,7 @@ css样式编写使用`Less`语言，这样可以避免系统中出现css命名�
 ## 快速入门资料
 
 * Git
-[Git教程]
+   * [Git教程]
 * AngularJS
     * [AngularJS官网]
     * [AngularJS的API文档]
